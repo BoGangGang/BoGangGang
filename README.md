@@ -13,15 +13,10 @@
   [단국대학교](https://dankook.ac.kr/)  모바일시스템공학과 (2021 - ing) 
 
 
-  ## :office: Experience
-  
-  ##  :clipboard: experience
+  ##  :clipboard: Experience
   ### 단국대학교 모바일시스템공학과 3학년 재학
   ### 코드 클럽 (대지중, 2021 - 2022)
   ### wemajer 22 겨울 기수 수료
   ### 단국대학교 입학처 주관 전공알림 멘토 (2022 - 2023)
   ### 1학년, 2학년 대의원
   
-  ## :wrench: learnning
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChangYoon&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
