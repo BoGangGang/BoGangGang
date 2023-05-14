@@ -10,7 +10,7 @@
   
   ## :mortar_board: Education
 
-- [단국대학교](https://dankook.ac.kr/)  모바일시스템공학과 (2021 - ing) 
+  [단국대학교](https://dankook.ac.kr/)  모바일시스템공학과 (2021 - ing) 
 
 
   ## :office: Experience
@@ -22,17 +22,6 @@
   ### 단국대학교 입학처 주관 전공알림 멘토 (2022 - 2023)
   ### 1학년, 2학년 대의원
   
-<!--
-**BoGangGang/BoGangGang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## :wrench: learnning
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChangYoon&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
