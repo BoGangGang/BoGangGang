@@ -2,11 +2,18 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=E26078&height=150&section=header&text=Bo_Gang's_page&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
-##  :wave: Welcome my github profile !
+ ##  :wave: Welcome my github profile !
 
   
  <br/>
  <br/>
+  
+  ## :mortar_board: Education
+
+- [단국대학교](https://dankook.ac.kr/)  모바일시스템공학과 (2021 - ing) 
+
+
+  ## :office: Experience
   
   ##  :clipboard: experience
   ### 단국대학교 모바일시스템공학과 3학년 재학
